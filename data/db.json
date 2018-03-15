@@ -1,0 +1,16 @@
+{
+  "cidades": [
+    {
+      "nome": "São Paulo",
+      "id": 2
+    },
+    {
+      "nome": "Florianópolis",
+      "id": 3
+    },
+    {
+      "nome": "Goiânia2",
+      "id": 4
+    }
+  ]
+}
