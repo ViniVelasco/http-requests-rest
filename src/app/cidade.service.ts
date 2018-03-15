@@ -30,7 +30,7 @@ export class CidadeService {
      .toPromise()
      .then(response => response.json())
      .catch(erro => {
-       console.log(erro);
+       return Promise.reject(`Erro ao alterar cidade.id`);
      });
   }
 
